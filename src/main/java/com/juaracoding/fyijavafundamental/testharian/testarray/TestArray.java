@@ -10,4 +10,18 @@ Version 1.0
 */
 
 public class TestArray {
-}
+    public static void main(String[] args) {
+        int x = 110;
+        if(x % 2 ==0) {
+            if (x / 100 != 0){
+                System.out.println(x + "bilangan genap lebih dari seratus");
+            }  else
+            if(x / 10 != 0){
+                System.out.println(x+" bilangan genap lebih dari sepuluh");
+            }else{
+
+            }}
+
+    }}
+
+
