@@ -22,8 +22,7 @@ public class Pratikum1 {
         {
             chA = strInput.charAt(x);
             intA = chA;
-            if((intA >=32 && intA <=47) || (intA>=48 && intA<=57) ||
-                    (intA>=58 && intA<=64) || (intA>=65 && intA<=95))
+            if((intA >=32 && intA <=47) || (intA>=48 && intA<=57) || (intA>=58 && intA<=64) || (intA>=65 && intA<=95))
             {
                 intHasil=intHasil+intA;
             }
