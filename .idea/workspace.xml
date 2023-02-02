@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31a38fd9-7571-4bbd-a66d-aaccf60040d4" name="Changes" comment="Commit Pratikum 4 Java" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ki00bGXN7k6PwpR6BM1KJl6HZL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/LATIHAN kelas JAVA/fyijavafundamental",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Pratikum4">
+    <configuration name="Pratikum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_1.Pratikum1" />
+      <module name="fyijavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juaracoding.fyijavafundamental.testharian.pratikum_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pratikum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_3.Pratikum3" />
+      <module name="fyijavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juaracoding.fyijavafundamental.testharian.pratikum_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pratikum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_4.Pratikum4" />
+      <module name="fyijavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juaracoding.fyijavafundamental.testharian.pratikum_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pratikum4" />
+        <item itemvalue="Application.Pratikum1" />
+        <item itemvalue="Application.Pratikum3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31a38fd9-7571-4bbd-a66d-aaccf60040d4" name="Changes" comment="" />
+      <created>1674441876669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674441876669</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit Pratikum 3 Java">
+      <created>1674466601180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674466601180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Pratikum 4 Java">
+      <created>1675333937551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675333937551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Pratikum 3 Java" />
+    <MESSAGE value="Commit Pratikum 4 Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Pratikum 4 Java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/juaracoding/fyijavafundamental/testharian/pratikum_1/Pratikum1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/juaracoding/fyijavafundamental/testharian/pratikum_1/Pratikum1.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/juaracoding/fyijavafundamental/testharian/pratikum_3/Pratikum3.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fyijavafundamental$Pratikum4.ic" NAME="Pratikum4 Coverage Results" MODIFIED="1675321483840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.juaracoding.fyijavafundamental.testharian.pratikum_4.*</FILTER>
+    </SUITE>
+  </component>
+</project>
