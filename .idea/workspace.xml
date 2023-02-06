@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31a38fd9-7571-4bbd-a66d-aaccf60040d4" name="Changes" comment="Commit Pratikum 4 Java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/fyijavafundamental/testharian/pratikum_5/Pratikum5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="31a38fd9-7571-4bbd-a66d-aaccf60040d4" name="Changes" comment="Commit Pratikum 5 Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,17 +39,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/LATIHAN kelas JAVA/fyijavafundamental",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/LATIHAN kelas JAVA/fyijavafundamental&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Pratikum5">
     <configuration name="Pratikum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_1.Pratikum1" />
@@ -145,13 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675334102010</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Pratikum 5 Java">
+      <created>1675668893979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675668893979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Pratikum 3 Java" />
     <MESSAGE value="Commit Pratikum 4 Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Pratikum 4 Java" />
+    <MESSAGE value="Commit Pratikum 5 Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Pratikum 5 Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
