@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31a38fd9-7571-4bbd-a66d-aaccf60040d4" name="Changes" comment="Commit Pratikum 5 Java" />
+    <list default="true" id="31a38fd9-7571-4bbd-a66d-aaccf60040d4" name="Changes" comment="Commit Pratikum 5 Java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/fyijavafundamental/testharian/pratikum_4/Soal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/fyijavafundamental/testharian/pratikum_6/Pratikum6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pratikum5">
+  <component name="RunManager" selected="Application.Pratikum6">
     <configuration name="Pratikum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_1.Pratikum1" />
       <module name="fyijavafundamental" />
@@ -64,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pratikum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_3.Pratikum3" />
+    <configuration name="Pratikum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_2.Pratikum2" />
       <module name="fyijavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.juaracoding.fyijavafundamental.testharian.pratikum_3.*" />
+          <option name="PATTERN" value="com.juaracoding.fyijavafundamental.testharian.pratikum_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pratikum6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juaracoding.fyijavafundamental.testharian.pratikum_6.Pratikum6" />
+      <module name="fyijavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juaracoding.fyijavafundamental.testharian.pratikum_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pratikum6" />
+        <item itemvalue="Application.Pratikum2" />
         <item itemvalue="Application.Pratikum5" />
         <item itemvalue="Application.Pratikum4" />
         <item itemvalue="Application.Pratikum1" />
-        <item itemvalue="Application.Pratikum3" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675668893979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit Pratikum 5 Java">
+      <created>1675669103184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675669103184</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
